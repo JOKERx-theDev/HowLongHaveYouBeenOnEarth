@@ -65,6 +65,7 @@ body{
     padding: 0% 2%;
     font-family: myFontRegular;
     color: #000;
+    letter-spacing: 3px;
 }
 .container button{
     display: block;
